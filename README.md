@@ -1,4 +1,4 @@
 # Parth-demo
 This is my first repository
-<br>
+\n
 author - parth
